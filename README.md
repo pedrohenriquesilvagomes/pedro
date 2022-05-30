@@ -1,4 +1,4 @@
-- 👋 Ola meu nome é pedro 
-- 👀 meu email de contato pedro.silva.gomes@escola.pr.gov.br
+- 👋 Ola meu nome é **Pedro** 
+- 👀 meu email de contato [email](pedro.silva.gomes@escola.pr.gov.br)
 - 👀 Eu estou interessado a programar novas linguagens. 
 - 💞️ Eu estou aprendendo a programar a linguagem de javaScript e scrath
